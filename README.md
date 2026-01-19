@@ -1,20 +1,70 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Hello — I'm MyPlants2025
+مرحباً بك في حسابي على GitHub — Welcome to my GitHub!
 
-# Run and deploy your AI Studio app
+I build delightful plant-focused web apps, document growth journeys, and experiment with simple AI tools to make plant care easier. This README is a starting template — keep reading to personalize it with your profession, top skills, favourite projects, and social links.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1digGYZ3r5hcAxwYpW3Y3afAs9jLBl1LS
+## 🌿 About
+I create applications and tools that help people care for, track, and celebrate their plants. I enjoy building clean, accessible UIs, automating repetitive tasks, and exploring small AI integrations to make plant care smarter.
 
-## Run Locally
+- Location: (add your city / country)
+- Pronouns: (optional)
+- Languages: (add spoken/written languages)
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 What I do
+- Build web apps with modern front-end stacks (React, TypeScript, Vite, Tailwind).
+- Design simple UX flows for hobbyist tools — plant libraries, stage tracking, and visual journaling.
+- Prototype AI/ML features to recommend care steps or identify plant issues.
+- Maintain small projects end-to-end: idea → MVP → deploy → iterate.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠️ Core Skills
+- Languages: JavaScript, TypeScript, HTML, CSS
+- Frameworks & Libraries: React, Vite, Tailwind CSS
+- Tooling: Git, GitHub, Vercel / Netlify, Node.js
+- Concepts: Accessibility, Responsive Design, Local persistence (IndexedDB / localStorage), Basic ML/AI integrations
+- Other: UI/UX for RTL layouts (Arabic), Internationalization
+
+---
+
+## ⭐ Featured Projects
+> Replace these with your actual projects and links
+
+- Plant Library (this repo) — A minimal plant journal and library to track growth stages and care notes.  
+  https://github.com/MyPlants2025/plantsinfo1
+
+- AI Plant Care Assistant — Prototype that suggests care tips based on plant species and stage (placeholder).
+
+- Growth Journal WebApp — Image-backed timeline for documenting plant lifecycle with exportable entries (placeholder).
+
+---
+
+## 📈 GitHub Stats
+(Add dynamic stats or a short summary here — e.g. open-source contributions, languages used)
+
+---
+
+## 📫 Contact & Social
+Share links you'd like shown here (replace placeholders):
+- Website: https://your-website.example
+- GitHub: https://github.com/MyPlants2025
+- Twitter / X: https://twitter.com/yourhandle
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: you@example.com
+
+---
+
+## 🤝 Collaborate
+I’m open to collaboration on plant-care apps, hobbyist ML projects, or frontend tooling. If you have an idea or want to co-build something, open an issue or drop a message.
+
+---
+
+## ✨ Want this README personalized?
+I can tailor the entire README (tone, sections, badges, visuals, language) to match your identity and goals. Provide a few details and I’ll update it.
+
+---
+Made with 🌱 & code — keep growing.
