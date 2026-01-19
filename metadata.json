@@ -1,0 +1,7 @@
+{
+  "name": "Copy of مكتبة النباتات (Plant Library)",
+  "description": "تطبيق متكامل لتوثيق ومتابعة مراحل نمو النباتات، يدعم التصنيفات المختلفة وتوليد تقارير PDF ذكية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
